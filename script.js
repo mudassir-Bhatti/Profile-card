@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
         body.style.color="white";
         bio.style.color="#b8b8b8ff";
         about.style.color="#d6d6d6ff";
-        profilePic.src="/Images/Default-Profile-D.png";
+        // profilePic.src="/Images/Default-Profile-D.png";
         editBtn.style.backgroundColor="inherit";
         editBtn.background="none";
         themeBtn.style.backgroundColor="inherit";
@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         }else if(flag==2){
         body.style.backgroundColor="#29524A";
-        profilePic.src="/Images/Default-profile.png";
+        // profilePic.src="/Images/Default-profile.png";
         card.backgroundColor="#94A187";
         bio.style.color="#383737ff";
         about.style.color="#232222ff";
