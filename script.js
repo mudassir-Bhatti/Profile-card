@@ -77,6 +77,7 @@ document.addEventListener("DOMContentLoaded", () => {
         editBtn.background="none";
         themeBtn.style.backgroundColor="inherit";
         profilePic.style.border="none";
+        card.boxShadow="0px 0px 30px 0.1px black";
         
 
         }else if(flag==2){
